@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for (( count=10; count>0; count-- ))
+do
+    echo "$count"
+done
+
+echo "saiu do for loop"
