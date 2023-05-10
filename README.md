@@ -31,23 +31,23 @@ No Windons precisaremos instalar a ferramenta Windows Subsystem for Lilux - WSL 
   <tr>
     <td align="center">
       <a href="https://github.com/gabomoreira">
-        <img src="https://github.com/gabomoreira.png" width="100px;" alt="Foto de perfil do Gabriel Moreira no GitHub"/><br>
+        <img src="https://github.com/gabomoreira.png" width="100px;" alt="Foto de perfil do Gabriel dos Santos Moreira no GitHub"/><br>
         <sub>
-          <b>Gabriel Moreira</b>
+          <b>Gabriel dos Santos Moreira</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/robertoferreira7">
-        <img src="https://github.com/robertoferreira7.png" width="100px;" alt="Foto de perfil do Roberto Ferreira no GitHub"/><br>
+        <img src="https://github.com/robertoferreira7.png" width="100px;" alt="Foto de perfil do Roberto Ferreira de Assis Filho no GitHub"/><br>
         <sub>
-          <b>Roberto Ferreira</b>
+          <b>Roberto Ferreira de Assis Filho</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/rodrigo-farias10">
-        <img src="https://github.com/rodrigo-farias10.png" width="100px;" alt="Foto de perfil do Rodrigo Farias no GitHub"/><br>
+        <img src="https://github.com/rodrigo-farias10.png" width="100px;" alt="Foto de perfil do Rodrigo de Oliveira Farias no GitHub"/><br>
         <sub>
           <b>Rodrigo de Oliveira Farias</b>
         </sub>
